@@ -1,3 +1,4 @@
+![logo](Images/logo.jpg)
 # 📱 Samsung Supply Chain & Logistics Dashboard 🚚
 
 <!-- Badges Section -->
