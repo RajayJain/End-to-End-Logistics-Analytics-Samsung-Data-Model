@@ -1,0 +1,2 @@
+# End-to-End Logistics Analytics Samsung Data Model
+A comprehensive business intelligence solution demonstrating advanced data modeling and DAX implementation. Built on a robust Star Schema architecture, this project integrates multiple fact and dimension tables to analyze the complete product lifecycle. It transforms raw transactional data into actionable operational insights, tracking inventory valuation, supplier lead times, and platform-specific revenue generation.
