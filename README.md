@@ -4,19 +4,29 @@
 
 # Samsung Supply Chain & Logistics Dashboard 🚚
 
+Welcome to the **Samsung Supply Chain & Logistics Dashboard** repository. This project provides a comprehensive end-to-end overview of supply chain operations, tracking everything from supplier procurement to final customer delivery.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=034EA2&center=true&vCenter=true&width=760&lines=Samsung+Supply+Chain+Dashboard;End-to-End+Logistics+Analytics;Power+BI+%26+Data+Modeling;Inventory+%7C+Shipments+%7C+Revenue+%7C+KPIs" alt="Animated typing banner" />
+</div>
+
 <!-- Badges Section -->
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Data_Analytics-005571?style=for-the-badge" alt="Data Analytics">
   <img src="https://img.shields.io/badge/DAX-005571?style=for-the-badge" alt="DAX">
   <img src="https://img.shields.io/badge/Supply_Chain-Management-4CAF50?style=for-the-badge" alt="Supply Chain">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" alt="Contributions">
+ <img src="https://img.shields.io/badge/Logistics-Analytics-D35400?style=for-the-badge" alt="Logistics">
+ <img src="https://img.shields.io/badge/Dashboard-Visualization-005571?style=for-the-badge" alt="Dashboard">
+<img src="https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Intelligence">
+<img src="https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling">
+<img src="https://img.shields.io/badge/CSV-Dataset-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="CSV">
+<img src="https://img.shields.io/badge/Star_Schema-Architecture-8E44AD?style=for-the-badge" alt="Star Schema">
 </div>  
 
----
-
-Welcome to the **Samsung Supply Chain & Logistics Dashboard** repository. This project provides a comprehensive end-to-end overview of supply chain operations, tracking everything from supplier procurement to final customer delivery.
 
 ## 💼 Business Case
 
@@ -158,3 +168,7 @@ If you find this analysis framework resourceful or helpful for your retail appli
 
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=034EA2&height=100&section=footer" alt="Animated footer wave"/>
+</div>
