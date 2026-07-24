@@ -30,7 +30,7 @@ This project consolidates disparate CSV datasets into a centralized, interactive
 ### Static Preview
 <figure align="center">
   <img src="Images/Screenshot%202026-07-24%20103431.png" alt="Samsung Supply Chain Dashboard">
-  <figcaption><i><b>
+  <figcaption><i>
   Primary Subjects: Six KPI cards labeled Gross Revenue 186.86M, Total Revenue 176.95M, Total Profit 48.56M, Profit Margin 27.44%, Perfect Order 75%, and Total Shipment 8K. Additional visuals include a supplier inventory and shipment flow diagram with supplier and customer icons, a bar chart for average lead time by supplier, a column chart for inventory value by product, a bar chart for total delay by carrier, and a stacked bar for total revenue by platform.
   </i></figcaption>
 </figure>
